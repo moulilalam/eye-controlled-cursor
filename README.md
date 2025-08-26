@@ -1,2 +1,2 @@
-# 👁️ Eye Controlled Cursor
-**This text should be bold.**
+#  Eye Controlled Cursor
+
